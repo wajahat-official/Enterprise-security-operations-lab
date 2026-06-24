@@ -104,16 +104,3 @@ This folder contains screenshots demonstrating:
 Author: Muhammad Wajahat
 
 Role: Security Operations / SOC Analyst Candidate
-## Evidence Screenshots
-
-### Group Policy Configuration
-![GPO Configuration](filename.png)
-
-### Password Policy Settings
-![Password Policy](filename.png)
-
-### Account Lockout Configuration
-![Account Lockout](filename.png)
-
-### Policy Deployment Verification
-![Policy Verification](filename.png)
