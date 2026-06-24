@@ -16,7 +16,7 @@ This project demonstrates the deployment and monitoring of an enterprise-style W
 
 ## Architecture
 
-(Insert Architecture Diagram)
+<img width="1536" height="1024" alt="ARC-DIAGRAM-PROJECT" src="https://github.com/user-attachments/assets/471f83fb-f54c-4419-b0f8-e77032d2325f" />
 
 ## Technologies
 
