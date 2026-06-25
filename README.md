@@ -29,6 +29,22 @@ This project demonstrates the deployment and monitoring of an enterprise-style W
 - Microsoft Defender
 - Splunk Enterprise
 - Ubuntu Server
+## Skills Demonstrated
+
+- Active Directory Administration
+- Windows Server Administration
+- DNS Configuration
+- Group Policy Management
+- NTFS Permissions
+- Windows Event Monitoring
+- Microsoft Defender
+- Windows Event Forwarding (WEF)
+- Splunk Enterprise SIEM
+- Detection Engineering
+- Threat Detection
+- Alert Engineering
+- Security Monitoring
+- Incident Investigation
 
 ## Labs
 
