@@ -1,5 +1,13 @@
 # Enterprise Security Operations Lab
 
+![Windows Server](https://img.shields.io/badge/Windows-Server-0078D6?logo=windows)
+![Active Directory](https://img.shields.io/badge/Active-Directory-blue)
+![Splunk](https://img.shields.io/badge/SIEM-Splunk-65A637?logo=splunk)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft-Defender-5E5E5E?logo=microsoft)
+![Blue Team](https://img.shields.io/badge/Blue-Team-blue)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
+# Enterprise Security Operations Lab
+
 ## Overview
 
 This project demonstrates the deployment and monitoring of an enterprise-style Windows environment using:
